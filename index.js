@@ -1,2 +1,2 @@
-alert("Name: Oyewande Oluwaseun \nAge: 22 \nCountry: Nigeria");
-console.log("Name: Oyewande Oluwaseun \nAge: 22 \nCountry: Nigeria");
+alert("Name: Oyewande Oluwaseun \nHeight: 6 ft \nCountry: Nigeria");
+console.log("Name: Oyewande Oluwaseun \nHeight: 6 ft \nCountry: Nigeria");
